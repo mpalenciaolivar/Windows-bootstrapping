@@ -40,8 +40,8 @@ Foreach($ROW in $CSV)
 {
     Try
     {
-	$SOFTWARE = [string]::Format("{0}@{1}", $ROW.Name, $ROW.Version)
-	Invoke-Expression -Command "scoop install $args[0]" -ArgumentList $SOFTWARE
+	$SOFTWARE = $ROW.Name+"@"+$ROW.Version
+	scoop install $SOFTWARE
     }
     Catch
     {
@@ -49,6 +49,7 @@ Foreach($ROW in $CSV)
     }
 }
 
+# FIXME: The Try/Catch block above captures exceptions due to the script, and not those due to scoop.
 If($MISSING.count -gt 0)
 {
     Write-Output "The following software is missing:"
@@ -56,4 +57,10 @@ If($MISSING.count -gt 0)
     {
 	Write-Output $NAME
     }
+    Write-Output "Cleaning up..."
+    Foreach($NAME in $MISSING)
+    {
+	scoop uninstall $NAME
+    } 
 }
+

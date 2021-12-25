@@ -1,9 +1,8 @@
 Name,Version,License,Description,Category,Repository,Username,URL
 LogitechOptions-Install,9.40.86.0,Proprietary,Logitech Options software lets you customize your device's settings (provided they're Logitech devices).,Utils,ACooper81/scoop‑apps,ACooper81,https://github.com/ACooper81/scoop-apps
 intellij-IDEA,2021.3-213.5744.223,Apache-2.0,Intellij IDEA Community.,Dev,Ash258/Scoop‑JetBrains,Ash258,https://github.com/Ash258/Scoop-JetBrains
-miktex,21.6,Several free,An up-to-date implementation of TeX/LaTeX and related programs.,Office,batkiz/backit,batkiz,https://github.com/batkiz/backit
+miktex,21.6,Several free,An up-to-date implementation of TeX/LaTeX and related programs.,Office,dodorz/scoop,dodorz,https://github.com/dodorz/scoop
 adobe-reader-dc,21.007.20099,Proprietary,Adobe Reader.,Office,mbl‑35/scoop‑srsrns,Mbl‑35,https://github.com/mbl-35/scoop-srsrns
-minitool-partition-wizard-np,12.1,Proprietary,All-inclusive free partition manager.,Admin,noquierouser/nqu-scoop,noquierouser,https://github.com/noquierouser/nqu-scoop
 clang,13.0.0,NCSA,Collection of modular and reusable compiler and toolchain techs.,Dev,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
 bleachbit,4.4.2,GPL-3.0+,"Disk space cleaner, privacy manager, and computer system optimizer.",Admin,ScoopInstaller/Extras,ScoopInstaller,null
 windows-terminal,1.11.3471.0,MIT,The new Windows Terminal.,Admin,ScoopInstaller/Extras,ScoopInstaller,null
@@ -12,7 +11,7 @@ knime,4.5.0,GPL-3.0+,Analytics platform.,Data,ScoopInstaller/Extras,ScoopInstall
 emacs,27.2,GPL-3.0+,A good OS that lacks a text editor.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
 insomnia,2021.7.2,MIT,HTTP and GraphQL client.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
 mpv,0.34.0,"LGPL-2.1+,GPL-2.0+",Video player.,Multimedia,ScoopInstaller/Extras,ScoopInstaller,null
-calibre,5.34.0,GPL-3.0,Powerful and easy to manage e-book manager.,Office,ScoopInstaller/Extras,ScoopInstaller,null
+Calibre-normal,5.34.0,GPL-3.0,Powerful and easy to manage e-book manager.,Office,ScoopInstaller/Extras,ScoopInstaller,null
 jabref,5.4,MIT,Citation and reference management software.,Office,ScoopInstaller/Extras,ScoopInstaller,null
 autohotkey,1.1.33.10,GPL-2.0,The ultimate automation scripting language for Windows.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 powertoys,0.51.1,MIT,A set of utilities to make Windows more usable.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
@@ -20,11 +19,12 @@ testdisk,7.1,GPL-2.0+,testdisk & PhotoRec recovery tools.,Utils,ScoopInstaller/E
 wincompose,0.9.11,WTFPL,Easily write special characters using short key combinations.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 openjdk11,11.0.2-9,GPL-2.0 WITH Classpath-exception-2.0,Official production-ready open-source builds of OpenJDK 11,Dev,ScoopInstaller/Java,ScoopInstaller,null
 pyenv,2.64.11,MIT,Python version manager.,Admin,ScoopInstaller/Main,ScoopInstaller,null
-scoop-search,1.1.0,MIT,Fast scoop search drop-in replacement (MIT),Admin,ScoopInstaller/Main,ScoopInstaller,null
 mro,4.0.2,GPL-2.0,Microsoft R Open.,Data,ScoopInstaller/Main,ScoopInstaller,null
 sqlite,3.37.0,Public domain,A full-featured SQL engine that does not require to run a SQL server.,Data,ScoopInstaller/Main,ScoopInstaller,null
 docker,20.10.11,Apache-2.0,Docker CLI and Engine for Windows.,Dev,ScoopInstaller/Main,ScoopInstaller,null
 git,2.34.1.windows.1,GPL-2.0,Distributed VCS.,Dev,ScoopInstaller/Main,ScoopInstaller,null
 7zip,21.06,"Freeware, LGPL-2.0, BSD-3",A multi-format file archiver with high compression raos.,Utils,ScoopInstaller/Main,ScoopInstaller,null
 brave,1.33.106,MPL 2.0,"Secure, fast & private web browser with adblocker.",Office,silver886/scoop,silver886,https://github.com/silver886/scoop
-qgis-np,3.16.15,GPL-2.0,A GIS app.,Data,ZvonimirSun/scoop‑iszy,ZvonimirSun,https://github.com/ZvonimirSun/scoop-iszy
+vcredist2019,14.28.29914.0,Freeware,Microsoft Visual C++ Redistributable for Visual Studio 2019.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
+sed,4.8,GPL-3.0,The UNIX stream editor.,Utils,ScoopInstaller/Main,ScoopInstaller,null
+gawk,5.1.0,GPL-3.0,The GNU version of Awk.,Utils,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
