@@ -1,7 +1,5 @@
 Name,Version,License,Description,Category,Repository,Username,URL
-LogitechOptions-Install,9.40.86.0,Proprietary,Logitech Options software lets you customize your device's settings (provided they're Logitech devices).,Utils,ACooper81/scoop‑apps,ACooper81,https://github.com/ACooper81/scoop-apps
 intellij-IDEA,2021.3-213.5744.223,Apache-2.0,Intellij IDEA Community.,Dev,Ash258/Scoop‑JetBrains,Ash258,https://github.com/Ash258/Scoop-JetBrains
-miktex,21.6,Several free,An up-to-date implementation of TeX/LaTeX and related programs.,Office,dodorz/scoop,dodorz,https://github.com/dodorz/scoop
 adobe-reader-dc,21.007.20099,Proprietary,Adobe Reader.,Office,mbl‑35/scoop‑srsrns,Mbl‑35,https://github.com/mbl-35/scoop-srsrns
 clang,13.0.0,NCSA,Collection of modular and reusable compiler and toolchain techs.,Dev,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
 bleachbit,4.4.2,GPL-3.0+,"Disk space cleaner, privacy manager, and computer system optimizer.",Admin,ScoopInstaller/Extras,ScoopInstaller,null
@@ -12,7 +10,6 @@ emacs,27.2,GPL-3.0+,A good OS that lacks a text editor.,Dev,ScoopInstaller/Extra
 insomnia,2021.7.2,MIT,HTTP and GraphQL client.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
 mpv,0.34.0,"LGPL-2.1+,GPL-2.0+",Video player.,Multimedia,ScoopInstaller/Extras,ScoopInstaller,null
 Calibre-normal,5.34.0,GPL-3.0,Powerful and easy to manage e-book manager.,Office,ScoopInstaller/Extras,ScoopInstaller,null
-jabref,5.4,MIT,Citation and reference management software.,Office,ScoopInstaller/Extras,ScoopInstaller,null
 autohotkey,1.1.33.10,GPL-2.0,The ultimate automation scripting language for Windows.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 powertoys,0.51.1,MIT,A set of utilities to make Windows more usable.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 testdisk,7.1,GPL-2.0+,testdisk & PhotoRec recovery tools.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
