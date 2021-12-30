@@ -25,3 +25,5 @@ brave,1.33.106,MPL 2.0,"Secure, fast & private web browser with adblocker.",Offi
 vcredist2019,14.28.29914.0,Freeware,Microsoft Visual C++ Redistributable for Visual Studio 2019.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
 sed,4.8,GPL-3.0,The UNIX stream editor.,Utils,ScoopInstaller/Main,ScoopInstaller,null
 gawk,5.1.0,GPL-3.0,The GNU version of Awk.,Utils,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
+gcc,11.2.0,GPL-3.0-or-later,GNU Compiler Collection.,Utils,ScoopInstaller/Main,ScoopInstaller,null
+make,4.3,GPL-3.0-or-later,Build automation tool.,Utils,ScoopInstaller/Main,ScoopInstaller,null
