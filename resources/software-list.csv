@@ -23,7 +23,12 @@ git,2.34.1.windows.1,GPL-2.0,Distributed VCS.,Dev,ScoopInstaller/Main,ScoopInsta
 7zip,21.06,"Freeware, LGPL-2.0, BSD-3",A multi-format file archiver with high compression raos.,Utils,ScoopInstaller/Main,ScoopInstaller,null
 brave,1.33.106,MPL 2.0,"Secure, fast & private web browser with adblocker.",Office,silver886/scoop,silver886,https://github.com/silver886/scoop
 vcredist2019,14.28.29914.0,Freeware,Microsoft Visual C++ Redistributable for Visual Studio 2019.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
-sed,4.8,GPL-3.0,The UNIX stream editor.,Utils,ScoopInstaller/Main,ScoopInstaller,null
-gawk,5.1.0,GPL-3.0,The GNU version of Awk.,Utils,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
-gcc,11.2.0,GPL-3.0-or-later,GNU Compiler Collection.,Utils,ScoopInstaller/Main,ScoopInstaller,null
-make,4.3,GPL-3.0-or-later,Build automation tool.,Utils,ScoopInstaller/Main,ScoopInstaller,null
+sed,4.8,GPL-3.0,The UNIX stream editor.,Dev,ScoopInstaller/Main,ScoopInstaller,null
+gawk,5.1.0,GPL-3.0,The GNU version of Awk.,Dev,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
+gcc,11.2.0,GPL-3.0-or-later,GNU Compiler Collection.,Dev,ScoopInstaller/Main,ScoopInstaller,null
+make,4.3,GPL-3.0-or-later,Build automation tool.,Dev,ScoopInstaller/Main,ScoopInstaller,null
+pandoc,2.16.2,GPL-2.0-or-later,Universal markup converter.,Office,ScoopInstaller/Main,ScoopInstaller,null
+latex,21.12,Several free,A LaTeX distribution.,Office,ScoopInstaller/Main,ScoopInstaller,null
+zotero,5.0.96.3,AGPL-3.0-only,Bibliographic reference management.,Office,ScoopInstaller/Extras,ScoopInstaller,null
+filezilla,3.57.0,GPL-2.0-only,"Fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.",Office,ScoopInstaller/Extras,ScoopInstaller,null
+wget,1.21.2,GPL-3.0-or-later,"A cmd-line utility for retrieving files from HTTP, HTTPS, FTP and FTPS protocols.",Utils,ScoopInstaller/Main,ScoopInstaller,null
