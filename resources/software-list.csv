@@ -32,3 +32,4 @@ latex,21.12,Several free,A LaTeX distribution.,Office,ScoopInstaller/Main,ScoopI
 zotero,5.0.96.3,AGPL-3.0-only,Bibliographic reference management.,Office,ScoopInstaller/Extras,ScoopInstaller,null
 filezilla,3.57.0,GPL-2.0-only,"Fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.",Office,ScoopInstaller/Extras,ScoopInstaller,null
 wget,1.21.2,GPL-3.0-or-later,"A cmd-line utility for retrieving files from HTTP, HTTPS, FTP and FTPS protocols.",Utils,ScoopInstaller/Main,ScoopInstaller,null
+dockstation,1.5.1,Proprietary,GUI for Docker.,Dev,theseason5/scoop-bucket,theseason5,https://github.com/theseason5/scoop-bucket
