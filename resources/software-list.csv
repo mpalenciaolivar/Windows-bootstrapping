@@ -34,3 +34,4 @@ filezilla,3.57.0,GPL-2.0-only,"Fast and reliable cross-platform FTP, FTPS and SF
 wget,1.21.2,GPL-3.0-or-later,"A cmd-line utility for retrieving files from HTTP, HTTPS, FTP and FTPS protocols.",Utils,ScoopInstaller/Main,ScoopInstaller,null
 dockstation,1.5.1,Proprietary,GUI for Docker.,Dev,theseason5/scoop-bucket,theseason5,https://github.com/theseason5/scoop-bucket
 docker-compose,2.2.2,Apache-2.0,Define and run multi-container applications with Docker.,Dev,ScoopInstaller/Main,ScoopInstaller,null
+unlocker,1.9.0,Unknown,A tiny app specialized in unlocking files and killing hanging processes.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
