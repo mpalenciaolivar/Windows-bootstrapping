@@ -38,3 +38,4 @@ unlocker,1.9.0,Unknown,A tiny app specialized in unlocking files and killing han
 jq,1.6,MIT,Lightweight and flexible command-line JSON processor.,Utils,ScoopInstaller/Main,ScoopInstaller,null
 jid,0.7.6,MIT,JSON Incremental Digger. Drill down JSON interactively by using filtering queries like jq.,Utils,ScoopInstaller/Main,ScoopInstaller,null
 rstudio,2021.09.1-372,AGPL-3.0-only,"An IDE for R with console, syntax-highlighting, editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",Dev,ScoopInstaller/Extras,ScoopInstaller,null
+scoop-search,1.1.0,MIT,Fast scoop search drop-in replacement.,Utils,ScoopInstaller/Main,ScoopInstaller,null
