@@ -36,4 +36,5 @@ dockstation,1.5.1,Proprietary,GUI for Docker.,Dev,theseason5/scoop-bucket,thesea
 docker-compose,2.2.2,Apache-2.0,Define and run multi-container applications with Docker.,Dev,ScoopInstaller/Main,ScoopInstaller,null
 unlocker,1.9.0,Unknown,A tiny app specialized in unlocking files and killing hanging processes.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 jq,1.6,MIT,Lightweight and flexible command-line JSON processor.,Utils,ScoopInstaller/Main,ScoopInstaller,null
+jid,0.7.6,MIT,JSON Incremental Digger. Drill down JSON interactively by using filtering queries like jq.,Utils,ScoopInstaller/Main,ScoopInstaller,null
 
