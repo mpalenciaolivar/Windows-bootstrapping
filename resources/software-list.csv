@@ -21,7 +21,6 @@ sqlite,3.37.0,Public domain,A full-featured SQL engine that does not require to 
 docker,20.10.11,Apache-2.0,Docker CLI and Engine for Windows.,Dev,ScoopInstaller/Main,ScoopInstaller,null
 git,2.34.1.windows.1,GPL-2.0,Distributed VCS.,Dev,ScoopInstaller/Main,ScoopInstaller,null
 7zip,21.06,"Freeware, LGPL-2.0, BSD-3",A multi-format file archiver with high compression raos.,Utils,ScoopInstaller/Main,ScoopInstaller,null
-brave,1.33.106,MPL 2.0,"Secure, fast & private web browser with adblocker.",Office,silver886/scoop,silver886,https://github.com/silver886/scoop
 vcredist2019,14.28.29914.0,Freeware,Microsoft Visual C++ Redistributable for Visual Studio 2019.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
 sed,4.8,GPL-3.0,The UNIX stream editor.,Dev,ScoopInstaller/Main,ScoopInstaller,null
 gawk,5.1.0,GPL-3.0,The GNU version of Awk.,Dev,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
@@ -40,3 +39,5 @@ jid,0.7.6,MIT,JSON Incremental Digger. Drill down JSON interactively by using fi
 rstudio,2021.09.1-372,AGPL-3.0-only,"An IDE for R with console, syntax-highlighting, editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",Dev,ScoopInstaller/Extras,ScoopInstaller,null
 scoop-search,1.1.0,MIT,Fast scoop search drop-in replacement.,Utils,ScoopInstaller/Main,ScoopInstaller,null
 spotify-latest,1.1.74.631.g0b24d9ad,Freeware,Digital music service.,Leisure,TheRandomLabs/Scoop-Spotify,TheRandomLabs,https://github.com/TheRandomLabs/Scoop-Spotify
+cwrsync,6.2.4,"https://itefix.net/simplified-bsd-license",rsync is a file transfer program capable of efficient remote update via a fast differencing algorithm.,ScoopInstaller/Main,ScoopInstaller,null
+sharex,13.7.0,GPL-3.0-only,"Screen capture, file sharing and productivity tool.",ScoopInstaller/Extras,ScoopInstaller,null
