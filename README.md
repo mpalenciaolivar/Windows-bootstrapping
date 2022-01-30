@@ -1,4 +1,4 @@
-# Windows-Software_Installation
+# Windows-bootstrapping
 Installing everything I need on Windows.
 
 # Browsing packages
