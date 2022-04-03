@@ -4,7 +4,7 @@ foxit-reader,10.0.0.35798,Freeware,"Super-fast, feature rich PDF reader that off
 clang,13.0.0,NCSA,Collection of modular and reusable compiler and toolchain techs.,Dev,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
 ccleaner,v5.91.9537,Freeware,"Number-one tool for cleaning PC.",Admin,ScoopInstaller/Extras,ScoopInstaller,null
 windows-terminal,1.11.3471.0,MIT,The new Windows Terminal.,Admin,ScoopInstaller/Extras,ScoopInstaller,null
-dbeaver,21.3.1,Apache-2.0,GUI for (programming DBs),Data,ScoopInstaller/Extras,ScoopInstaller,null
+dbeaver,21.3.1,Apache-2.0,GUI for programming DBs,Data,ScoopInstaller/Extras,ScoopInstaller,null
 knime,4.5.0,GPL-3.0+,Analytics platform.,Data,ScoopInstaller/Extras,ScoopInstaller,null
 emacs,27.2,GPL-3.0+,A good OS that lacks a text editor.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
 insomnia,2021.7.2,MIT,HTTP and GraphQL client.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
