@@ -2,6 +2,7 @@ Name,Version,License,Description,Category,Repository,Username,URL
 intellij-IDEA,2021.3-213.5744.223,Apache-2.0,Intellij IDEA Community.,Dev,Ash258/Scoop‑JetBrains,Ash258,https://github.com/Ash258/Scoop-JetBrains
 foxit-reader,10.0.0.35798,Freeware,"Super-fast, feature rich PDF reader that offers a delightful reading experience in a small footprint.",Office,ScoopInstaller/Extras,ScoopInstaller,null
 clang,13.0.0,NCSA,Collection of modular and reusable compiler and toolchain techs.,Dev,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
+bleachbit,4.4.2,GPL-3.0+,"Disk space cleaner, privacy manager, and computer system optimizer.",Admin,ScoopInstaller/Extras,ScoopInstaller,null
 ccleaner,v5.91.9537,"Number-one tool for cleaning PC.",Admin,ScoopInstaller/Extras,ScoopInstaller,null
 windows-terminal,1.11.3471.0,MIT,The new Windows Terminal.,Admin,ScoopInstaller/Extras,ScoopInstaller,null
 dbeaver,21.3.1,Apache-2.0,GUI for (programming DBs),Data,ScoopInstaller/Extras,ScoopInstaller,null
