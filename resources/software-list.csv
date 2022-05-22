@@ -1,9 +1,10 @@
 Name,Version,License,Description,Category,Repository,Username,URL
-intellij-IDEA,2021.3-213.5744.223,Apache-2.0,Intellij IDEA Community.,Dev,Ash258/Scoop‑JetBrains,Ash258,https://github.com/Ash258/Scoop-JetBrains
-foxit-reader,10.0.0.35798,Freeware,"Super-fast, feature rich PDF reader that offers a delightful reading experience in a small footprint.",Office,ScoopInstaller/Extras,ScoopInstaller,null
+intellij-IDEA,2021.3-213.5744.223,Apache-2.0,Intellij IDEA Community.,Dev,Ash258/Scoopâ€‘JetBrains,Ash258,https://github.com/Ash258/Scoop-JetBrains
+adobe-reader-dc,21.007.20099,Proprietary,Adobe Reader.,Office,mblâ€‘35/scoopâ€‘srsrns,Mblâ€‘35,https://github.com/mbl-35/scoop-srsrns
 clang,13.0.0,NCSA,Collection of modular and reusable compiler and toolchain techs.,Dev,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
+bleachbit,4.4.2,GPL-3.0+,"Disk space cleaner, privacy manager, and computer system optimizer.",Admin,ScoopInstaller/Extras,ScoopInstaller,null
 windows-terminal,1.11.3471.0,MIT,The new Windows Terminal.,Admin,ScoopInstaller/Extras,ScoopInstaller,null
-dbeaver,21.3.1,Apache-2.0,GUI for programming DBs,Data,ScoopInstaller/Extras,ScoopInstaller,null
+dbeaver,21.3.1,Apache-2.0,GUI for (programming DBs),Data,ScoopInstaller/Extras,ScoopInstaller,null
 knime,4.5.0,GPL-3.0+,Analytics platform.,Data,ScoopInstaller/Extras,ScoopInstaller,null
 emacs,27.2,GPL-3.0+,A good OS that lacks a text editor.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
 insomnia,2021.7.2,MIT,HTTP and GraphQL client.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
@@ -20,6 +21,7 @@ sqlite,3.37.0,Public domain,A full-featured SQL engine that does not require to 
 docker,20.10.11,Apache-2.0,Docker CLI and Engine for Windows.,Dev,ScoopInstaller/Main,ScoopInstaller,null
 git,2.34.1.windows.1,GPL-2.0,Distributed VCS.,Dev,ScoopInstaller/Main,ScoopInstaller,null
 7zip,21.06,"Freeware, LGPL-2.0, BSD-3",A multi-format file archiver with high compression raos.,Utils,ScoopInstaller/Main,ScoopInstaller,null
+brave,1.33.106,MPL 2.0,"Secure, fast & private web browser with adblocker.",Office,silver886/scoop,silver886,https://github.com/silver886/scoop
 vcredist2019,14.28.29914.0,Freeware,Microsoft Visual C++ Redistributable for Visual Studio 2019.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
 sed,4.8,GPL-3.0,The UNIX stream editor.,Dev,ScoopInstaller/Main,ScoopInstaller,null
 gawk,5.1.0,GPL-3.0,The GNU version of Awk.,Dev,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
@@ -27,21 +29,8 @@ gcc,11.2.0,GPL-3.0-or-later,GNU Compiler Collection.,Dev,ScoopInstaller/Main,Sco
 make,4.3,GPL-3.0-or-later,Build automation tool.,Dev,ScoopInstaller/Main,ScoopInstaller,null
 pandoc,2.16.2,GPL-2.0-or-later,Universal markup converter.,Office,ScoopInstaller/Main,ScoopInstaller,null
 latex,21.12,Several free,A LaTeX distribution.,Office,ScoopInstaller/Main,ScoopInstaller,null
-jabref,5.5,MIT,Citation and reference management software that uses BibTeX and BibLaTeX as its native formats.,Office,ScoopInstaller/Extras,ScoopInstaller,null
+zotero,5.0.96.3,AGPL-3.0-only,Bibliographic reference management.,Office,ScoopInstaller/Extras,ScoopInstaller,null
 filezilla,3.57.0,GPL-2.0-only,"Fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.",Office,ScoopInstaller/Extras,ScoopInstaller,null
 wget,1.21.2,GPL-3.0-or-later,"A cmd-line utility for retrieving files from HTTP, HTTPS, FTP and FTPS protocols.",Utils,ScoopInstaller/Main,ScoopInstaller,null
 dockstation,1.5.1,Proprietary,GUI for Docker.,Dev,theseason5/scoop-bucket,theseason5,https://github.com/theseason5/scoop-bucket
-docker-compose,2.2.2,Apache-2.0,Define and run multi-container applications with Docker.,Dev,ScoopInstaller/Main,ScoopInstaller,null
-unlocker,1.9.0,Unknown,A tiny app specialized in unlocking files and killing hanging processes.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
-jq,1.6,MIT,Lightweight and flexible command-line JSON processor.,Utils,ScoopInstaller/Main,ScoopInstaller,null
-jid,0.7.6,MIT,JSON Incremental Digger. Drill down JSON interactively by using filtering queries like jq.,Utils,ScoopInstaller/Main,ScoopInstaller,null
-rstudio,2021.09.1-372,AGPL-3.0-only,"An IDE for R with console, syntax-highlighting, editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",Dev,ScoopInstaller/Extras,ScoopInstaller,null
-scoop-search,1.1.0,MIT,Fast scoop search drop-in replacement.,Utils,ScoopInstaller/Main,ScoopInstaller,null
-spotify-latest,1.1.74.631.g0b24d9ad,Freeware,Digital music service.,Leisure,TheRandomLabs/Scoop-Spotify,TheRandomLabs,https://github.com/TheRandomLabs/Scoop-Spotify
-cwrsync,6.2.4,"https://itefix.net/simplified-bsd-license",rsync is a file transfer program capable of efficient remote update via a fast differencing algorithm.,Utils,ScoopInstaller/Main,ScoopInstaller,null
-sharex,13.7.0,GPL-3.0-only,"Screen capture, file sharing and productivity tool.",Utils,ScoopInstaller/Extras,ScoopInstaller,null
-obs-studio,27.1.3,GPL-2.0-only,Video recording and live streaming software.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
-djvulibre,3.5.28-4.12,GPL-3.0-or-later,Web-centric format and software platform for distributing documents and images.,Office,ScoopInstaller/Main,ScoopInstaller,null
-vscode,v1.66.0,Freeware,Lightweight but powerful source code editor.,Dev,ScoopInstaller/extras,ScoopInstaller,null
-miniconda3,v4.11.0,BSD-3-Clause,"A cross-platform, Python-agnostic binary package manager",Dev,ScoopInstaller/extras,ScoopInstaller,null
-whatsapp,v2.2210.9,Freeware,"A cross-platform messaging and Voice over IP service.",Communication,ScoopInstaller/extras,ScoopInstaller,null
+miller,v6.2.0,BSD-2-Clause,"Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed.",Dev,ScoopInstaller/Main,ScoopInstaller,null
