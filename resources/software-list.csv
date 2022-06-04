@@ -1,6 +1,5 @@
 Name,Version,License,Description,Category,Repository,Username,URL
 intellij-IDEA,2021.3-213.5744.223,Apache-2.0,Intellij IDEA Community.,Dev,Ash258/Scoopâ€‘JetBrains,Ash258,https://github.com/Ash258/Scoop-JetBrains
-adobe-reader-dc,21.007.20099,Proprietary,Adobe Reader.,Office,mblâ€‘35/scoopâ€‘srsrns,Mblâ€‘35,https://github.com/mbl-35/scoop-srsrns
 clang,13.0.0,NCSA,Collection of modular and reusable compiler and toolchain techs.,Dev,rivy/scoop-bucket,rivy,https://github.com/rivy/scoop-bucket
 bleachbit,4.4.2,GPL-3.0+,"Disk space cleaner, privacy manager, and computer system optimizer.",Admin,ScoopInstaller/Extras,ScoopInstaller,null
 windows-terminal,1.11.3471.0,MIT,The new Windows Terminal.,Admin,ScoopInstaller/Extras,ScoopInstaller,null
@@ -34,4 +33,6 @@ filezilla,3.57.0,GPL-2.0-only,"Fast and reliable cross-platform FTP, FTPS and SF
 wget,1.21.2,GPL-3.0-or-later,"A cmd-line utility for retrieving files from HTTP, HTTPS, FTP and FTPS protocols.",Utils,ScoopInstaller/Main,ScoopInstaller,null
 dockstation,1.5.1,Proprietary,GUI for Docker.,Dev,theseason5/scoop-bucket,theseason5,https://github.com/theseason5/scoop-bucket
 miller,v6.2.0,BSD-2-Clause,"Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed.",Dev,ScoopInstaller/Main,ScoopInstaller,null
-foxit-pdf-reader,v11.2.2.53575,Proprietary,Fast and feature rich PDF reader that offers a delightful reading experience.,Office,ScoopInstaller/Extras,ScoopInstaller,null
+oxit-pdf-reader,v11.2.2.53575,Proprietary,Fast and feature rich PDF reader that offers a delightful reading experience.,Office,ScoopInstaller/Extras,ScoopInstaller,null
+winget,v1.3.1391,MIT,Windows Package Manager CLI (aka winget),Admin,ScoopInstaller/Main,ScoopInstaller,null
+wingetui,v1.0,LGPL-2.1-or-later,A GUI to manage Winget and Scoop packages,Admin,ScoopInstaller/Extras,ScoopInstaller,null
