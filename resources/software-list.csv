@@ -15,6 +15,7 @@ powertoys,0.51.1,MIT,A set of utilities to make Windows more usable.,Utils,Scoop
 testdisk,7.1,GPL-2.0+,testdisk & PhotoRec recovery tools.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 wincompose,0.9.11,WTFPL,Easily write special characters using short key combinations.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 openjdk11,11.0.2-9,GPL-2.0 WITH Classpath-exception-2.0,Official production-ready open-source builds of OpenJDK 11,Dev,ScoopInstaller/Java,ScoopInstaller,null
+pyenv,2.64.11,MIT,Python version manager.,Admin,ScoopInstaller/Main,ScoopInstaller,null
 mro,4.0.2,GPL-2.0,Microsoft R Open.,Data,ScoopInstaller/Main,ScoopInstaller,null
 sqlite,3.37.0,Public domain,A full-featured SQL engine that does not require to run a SQL server.,Data,ScoopInstaller/Main,ScoopInstaller,null
 docker,20.10.11,Apache-2.0,Docker CLI and Engine for Windows.,Dev,ScoopInstaller/Main,ScoopInstaller,null
@@ -33,3 +34,4 @@ filezilla,3.57.0,GPL-2.0-only,"Fast and reliable cross-platform FTP, FTPS and SF
 wget,1.21.2,GPL-3.0-or-later,"A cmd-line utility for retrieving files from HTTP, HTTPS, FTP and FTPS protocols.",Utils,ScoopInstaller/Main,ScoopInstaller,null
 dockstation,1.5.1,Proprietary,GUI for Docker.,Dev,theseason5/scoop-bucket,theseason5,https://github.com/theseason5/scoop-bucket
 miller,v6.2.0,BSD-2-Clause,"Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed.",Dev,ScoopInstaller/Main,ScoopInstaller,null
+foxit-pdf-reader,v11.2.2.53575,Proprietary,Fast and feature rich PDF reader that offers a delightful reading experience.,Office,ScoopInstaller/Extras,ScoopInstaller,null
