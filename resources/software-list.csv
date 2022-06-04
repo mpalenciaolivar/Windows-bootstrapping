@@ -7,14 +7,14 @@ dbeaver,21.3.1,Apache-2.0,GUI for (programming DBs),Data,ScoopInstaller/Extras,S
 knime,4.5.0,GPL-3.0+,Analytics platform.,Data,ScoopInstaller/Extras,ScoopInstaller,null
 emacs,27.2,GPL-3.0+,A good OS that lacks a text editor.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
 insomnia,2021.7.2,MIT,HTTP and GraphQL client.,Dev,ScoopInstaller/Extras,ScoopInstaller,null
-mpv,0.34.0,"LGPL-2.1+,GPL-2.0+",Video player.,Multimedia,ScoopInstaller/Extras,ScoopInstaller,null
+vlc,v3.0.17.4,"GPL-2.0-only","A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",Multimedia,ScoopInstaller/Extras,ScoopInstaller,null
 Calibre-normal,5.34.0,GPL-3.0,Powerful and easy to manage e-book manager.,Office,ScoopInstaller/Extras,ScoopInstaller,null
 autohotkey,1.1.33.10,GPL-2.0,The ultimate automation scripting language for Windows.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 powertoys,0.51.1,MIT,A set of utilities to make Windows more usable.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 testdisk,7.1,GPL-2.0+,testdisk & PhotoRec recovery tools.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 wincompose,0.9.11,WTFPL,Easily write special characters using short key combinations.,Utils,ScoopInstaller/Extras,ScoopInstaller,null
 openjdk11,11.0.2-9,GPL-2.0 WITH Classpath-exception-2.0,Official production-ready open-source builds of OpenJDK 11,Dev,ScoopInstaller/Java,ScoopInstaller,null
-pyenv,2.64.11,MIT,Python version manager.,Admin,ScoopInstaller/Main,ScoopInstaller,null
+miniconda3,v4.12.0,BSD-3-Clause,"A cross-platform, Python-agnostic binary package manager.",Admin,ScoopInstaller/Extras,ScoopInstaller,null
 mro,4.0.2,GPL-2.0,Microsoft R Open.,Data,ScoopInstaller/Main,ScoopInstaller,null
 sqlite,3.37.0,Public domain,A full-featured SQL engine that does not require to run a SQL server.,Data,ScoopInstaller/Main,ScoopInstaller,null
 docker,20.10.11,Apache-2.0,Docker CLI and Engine for Windows.,Dev,ScoopInstaller/Main,ScoopInstaller,null
@@ -33,6 +33,6 @@ filezilla,3.57.0,GPL-2.0-only,"Fast and reliable cross-platform FTP, FTPS and SF
 wget,1.21.2,GPL-3.0-or-later,"A cmd-line utility for retrieving files from HTTP, HTTPS, FTP and FTPS protocols.",Utils,ScoopInstaller/Main,ScoopInstaller,null
 dockstation,1.5.1,Proprietary,GUI for Docker.,Dev,theseason5/scoop-bucket,theseason5,https://github.com/theseason5/scoop-bucket
 miller,v6.2.0,BSD-2-Clause,"Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed.",Dev,ScoopInstaller/Main,ScoopInstaller,null
-oxit-pdf-reader,v11.2.2.53575,Proprietary,Fast and feature rich PDF reader that offers a delightful reading experience.,Office,ScoopInstaller/Extras,ScoopInstaller,null
+foxit-pdf-reader,v11.2.2.53575,Proprietary,Fast and feature rich PDF reader that offers a delightful reading experience.,Office,ScoopInstaller/Extras,ScoopInstaller,null
 winget,v1.3.1391,MIT,Windows Package Manager CLI (aka winget),Admin,ScoopInstaller/Main,ScoopInstaller,null
 wingetui,v1.0,LGPL-2.1-or-later,A GUI to manage Winget and Scoop packages,Admin,ScoopInstaller/Extras,ScoopInstaller,null
